@@ -1,3 +1,4 @@
 NAME:KOWSALYA S
 ROLL.NO:24MCR058
 FAV.SUB:JAVA
+mobile.model: vivo y73
